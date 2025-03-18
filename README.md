@@ -5,4 +5,5 @@
 <h2>Versão DESKTOP</h2>
 <img src="https://github.com/mavtins/meu-projeto-responsivo/blob/main/assets/spiderman-desktop.png?raw=true">
 <br>
-<img src=""
+<h2>Versão MOBILE</h2>
+<img src="https://github.com/mavtins/meu-projeto-responsivo/blob/main/assets/spiderman-mobile.png?raw=true">
